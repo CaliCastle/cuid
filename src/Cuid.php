@@ -1,5 +1,7 @@
 <?php
 
+namespace CaliCastle;
+
 /**
  * Cuid is a library to create collision resistant ids
  * optimized for horizontal scaling and performance.
