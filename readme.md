@@ -1,4 +1,13 @@
-## A CUID Generator
+<h1 align="center">A CUID Generator</h1>
+
+<p align="center">
+<a href="https://packagist.org/packages/calicastle/cuid">
+<img src="https://img.shields.io/packagist/dt/calicastle/cuid?style=flat-square" />
+</a>
+<a href="https://packagist.org/packages/calicastle/cuid">
+<img alt="Packagist Version" src="https://img.shields.io/packagist/v/calicastle/cuid?style=flat-square">
+</a>
+</p>
 
 A CUID **(Collision Resistant Unique Identifier)** is a method of creating a unique identifier that was developed by Eric Elliott. The purpose is to create unique IDs for use in web applications to better support horizontal scaling and sequential lookup performance.
 
