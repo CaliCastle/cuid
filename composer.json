@@ -1,0 +1,23 @@
+{
+    "name": "calicastle/cuid",
+    "description": "A CUID generator",
+    "type": "library",
+    "keywords": ["cuid", "uuid", "unique id", "collision free id"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cali Castle",
+            "email": "cali@calicastle.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cuid\\": "/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
